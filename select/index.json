@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "feelgrey",
+  "base_artist": "エスキベル",
+  "createdAt": "2026-01-11T06:21:25.312703Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "feelgrey(feat. 毛利安寿)",
+      "artist": "エスキベル",
+      "has_synced": false,
+      "path": "select/pl_01_feelgrey(feat._毛利安寿)_エスキベル.txt"
+    }
+  ]
+}
